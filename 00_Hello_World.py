@@ -2,3 +2,4 @@
 #Einfache Ausgabe
 
 print("Hello World!")
+print("GitHub mal probieren!")
